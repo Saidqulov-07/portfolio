@@ -69,4 +69,4 @@ LANGUAGE_CODE = 'uz' # O'zbek tili
 TIME_ZONE = 'Asia/Tashkent'
 
 # Statik fayllar (CSS, JS, Rasmlar)
-STATIC_URL = 'static/'s
+STATIC_URL = 'static/'
