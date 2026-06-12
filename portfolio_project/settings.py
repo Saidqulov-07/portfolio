@@ -20,7 +20,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'portfolio_project.aloqa',  # Sizning ilovangiz nomi
+    'aloqa',  # Sizning ilovangiz nomi
     'portfel', # Sizning ikkinchi ilovangiz nomi
 ]
 
