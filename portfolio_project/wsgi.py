@@ -1,7 +1,7 @@
 import os
 from django.core.wsgi import get_wsgi_application
 
-# 'portfolio_project.settings' bu sizning settings faylingizning yo'li
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'portfolio_project.settings')
+# 'settings' - chunki faylingiz root'da turibdi
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'settings')
 
 application = get_wsgi_application()
